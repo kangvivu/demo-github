@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello1111111111
 htllo2222222222
+=======
+hello12
+htllo23
+>>>>>>> 9dfad89 (fix branch1)
